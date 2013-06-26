@@ -11,6 +11,7 @@ gem 'simple_form'
 gem 'jquery-rails'
 gem 'rails_autolink'
 gem 'ey_config'
+gem 'newrelic_rpm'
 
 group :assets do
   gem 'sass-rails'
